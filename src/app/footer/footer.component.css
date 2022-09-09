@@ -1,0 +1,43 @@
+footer{
+    position: relative;
+    text-align: center;
+    background: rgba(217, 217, 217, 0.22);
+    margin-top: 1000px;
+padding-bottom: 50px;
+padding-top: 50px;
+    
+    }
+    
+    .copy{
+        
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    justify-content: center;
+   
+    }
+    
+    .by{
+     
+    
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 11px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+    color: #FFFFFF;
+    }  
+p p{
+    margin-top: 100px;
+}

@@ -1,0 +1,34 @@
+
+article {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .image-box {
+    float: left;
+}
+ 
+.buttom a{
+position: relatabive;
+width: 245px;
+height:120px;
+float: center;
+text-decoration: none;
+list-style: none;
+color: #0887B9;
+background: linear-gradient(180deg, #141313 0%, rgba(19, 18, 18, 0.484375) 51.56%, #0F0E0E 100%);}
+
+
+
+.about{
+    margin-top: 15%;
+    text-align: center;
+    padding-left: 55px; 
+}
+.p{
+    text-align: left;
+}
+.eu{
+    float: right;
+    
+}

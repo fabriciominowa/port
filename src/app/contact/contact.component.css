@@ -1,0 +1,25 @@
+.cards{
+    margin-top: 25%;
+    text-align: center;
+    padding-left: 1px;
+
+
+    }
+
+    .cardr {
+        position: relative;
+        width: 250px;
+        height: 150px;
+        background: linear-gradient(180deg, rgba(81, 6, 255, 0.7275) 0%, rgba(97, 203, 242, 0.75) 100%);border-radius: 26px;
+        background-blend-mode: soft-light;
+        border-radius: 96px;
+        display: inline-block;
+        margin-left: 20px;
+        margin-top: 20px;
+        
+        
+    }
+    .l{
+        margin-top: 50px;
+    }
+    

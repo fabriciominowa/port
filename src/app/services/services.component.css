@@ -1,0 +1,31 @@
+.l{
+    margin-top: 30px;
+}
+
+.card {
+position: relative;
+width: 370px;
+height: 309px;
+background: linear-gradient(180deg, rgba(81, 6, 255, 0.7275) 0%, rgba(97, 203, 242, 0.75) 100%);border-radius: 26px;
+display: inline-block;
+
+margin-left: 10px;
+margin-top: 10px;
+
+}
+.cards{
+    margin-top: 42%;
+    text-align: center;
+    padding-left: 10px;
+    }
+    .buttom a{
+        position: relative;
+        width: 245px;
+        height:120px;
+        float: center;
+        text-decoration: none;
+        list-style: none;
+        color: #0887B9;
+        background: linear-gradient(180deg, #141313 0%, rgba(19, 18, 18, 0.484375) 51.56%, #0F0E0E 100%);}
+        
+        
