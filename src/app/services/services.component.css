@@ -9,14 +9,14 @@ height: 309px;
 background: linear-gradient(180deg, rgba(81, 6, 255, 0.7275) 0%, rgba(97, 203, 242, 0.75) 100%);border-radius: 26px;
 display: inline-block;
 
-margin-left: 10px;
-margin-top: 10px;
+margin-left: 15px;
+margin-top: 15px;
 
 }
 .cards{
-    margin-top: 42%;
     text-align: center;
-    padding-left: 10px;
+    padding-left: 15px;
+    margin-top: 15%;
     }
     .buttom a{
         position: relative;

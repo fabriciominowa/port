@@ -56,3 +56,10 @@ header .logo img {
     text-align: center;
     font-size: larger;
 }
+
+.marca{
+    position: relative;
+    text-align: center;
+    margin-top: 15%;
+
+}

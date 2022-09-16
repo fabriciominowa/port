@@ -9,7 +9,7 @@ article {
 }
  
 .buttom a{
-position: relatabive;
+position: relative;
 width: 245px;
 height:120px;
 float: center;
@@ -21,7 +21,7 @@ background: linear-gradient(180deg, #141313 0%, rgba(19, 18, 18, 0.484375) 51.56
 
 
 .about{
-    margin-top: 15%;
+    margin-top: 25%;
     text-align: center;
     padding-left: 55px; 
 }
